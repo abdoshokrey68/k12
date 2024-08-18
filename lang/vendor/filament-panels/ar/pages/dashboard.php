@@ -3,7 +3,6 @@
 return [
 
     'title' => 'لوحة التحكم',
-
     'actions' => [
 
         'filter' => [
@@ -17,7 +16,6 @@ return [
                 'actions' => [
 
                     'apply' => [
-
                         'label' => 'تطبيق',
 
                     ],

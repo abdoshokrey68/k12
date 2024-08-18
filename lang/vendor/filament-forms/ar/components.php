@@ -506,6 +506,4 @@ return [
 
         ],
     ],
-
-    'Recruitment'   => 'توظيف'
 ];
